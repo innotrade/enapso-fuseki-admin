@@ -13,11 +13,11 @@ module.exports = Object.freeze({
     dataset: encfg.getConfig('enapsoDefaultFuseki.dataset', 'Test'),
     newDataSet: 'EnapsoAutomatedRepo',
     updatePath: `/${encfg.getConfig(
-        'enapsoDefaultGraphDB.repository',
+        'enapsoDefaultFuseki.dataset',
         'Test'
     )}/update`,
     queryPath: `/${encfg.getConfig(
-        'enapsoDefaultGraphDB.repository',
+        'enapsoDefaultFuseki.dataset',
         'Test'
     )}/sparql`,
     prefixes: {
