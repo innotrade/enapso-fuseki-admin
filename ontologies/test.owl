@@ -1,0 +1,889 @@
+<http://ont.enapso.com/repo#name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"@de <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_45603a34_4569_4914_9ac9_eac8e264a2d7> <http://ont.enapso.com/repo#name> "Enapso Test Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_45603a34_4569_4914_9ac9_eac8e264a2d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_45603a34_4569_4914_9ac9_eac8e264a2d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_45603a34_4569_4914_9ac9_eac8e264a2d7> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Test Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_45603a34_4569_4914_9ac9_eac8e264a2d7> <http://ont.enapso.com/repo#prefix> "entest" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_45603a34_4569_4914_9ac9_eac8e264a2d7> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/test#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#prefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#prefix> <http://www.w3.org/2000/01/rdf-schema#label> "Prefix"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#prefix> <http://www.w3.org/2000/01/rdf-schema#label> "Präfix"@de <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#namespace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#namespace> <http://www.w3.org/2000/01/rdf-schema#label> "Namespace"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#namespace> <http://www.w3.org/2000/01/rdf-schema#label> "Namensraum"@de <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix> <http://www.w3.org/2000/01/rdf-schema#comment> "Definition of prefix and associated namespace."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix> <http://www.w3.org/2000/01/rdf-schema#label> "Prefix"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Ba58f900fX2Db096X2D496aX2DacedX2D544f5c58d6a4 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bfac9ca9dX2D6679X2D424eX2Db406X2Ddd5d4a1dc875 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bf9e76f48X2Dc791X2D4c3cX2Da16dX2Db6005b9e95bf <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#imports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#imports> <http://www.w3.org/2000/01/rdf-schema#comment> "Specifies which other ontologies are imported by a certain ontology."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#imports> <http://www.w3.org/2000/01/rdf-schema#label> "imports"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_629b7ea1_5a2b_4ce5_860e_c5ad5996f45f> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_629b7ea1_5a2b_4ce5_860e_c5ad5996f45f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_629b7ea1_5a2b_4ce5_860e_c5ad5996f45f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_629b7ea1_5a2b_4ce5_860e_c5ad5996f45f> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_629b7ea1_5a2b_4ce5_860e_c5ad5996f45f> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/ontapi" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_629b7ea1_5a2b_4ce5_860e_c5ad5996f45f> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#graph> <http://www.w3.org/2000/01/rdf-schema#comment> "The name of a graph inside a repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#graph> <http://www.w3.org/2000/01/rdf-schema#label> "Graph"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasRepository> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasRepository> <http://www.w3.org/2000/01/rdf-schema#comment> "Each database instance can have one or more repositories."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasRepository> <http://www.w3.org/2000/01/rdf-schema#label> "Repository"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasRepository> <http://www.w3.org/2000/01/rdf-schema#range> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://ont.enapso.com/repo#name> "EnapsoDotNetProDemo repository is located a Alexander Schulze's MacBookPro II." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoDotNetProDemo repository is located a Alexander Schulze's MacBookPro II."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://ont.enapso.com/repo#id> "EnapsoDotNetProDemo" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph> <http://www.w3.org/2000/01/rdf-schema#comment> "Describes a sub graph within a graph database repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph> <http://www.w3.org/2000/01/rdf-schema#label> "Graph"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B626bab8aX2D9b76X2D4c3fX2Dbf0aX2D37be10ffc8b8 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B4fe32ee6X2Dca75X2D4cc9X2Dab47X2D56733a0cae79 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bd8c52d8dX2D3fb8X2D4e4fX2D8375X2D167db30f39ee <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#filename> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#filename> <http://www.w3.org/2000/01/rdf-schema#label> "Filename"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#filename> <http://www.w3.org/2000/01/rdf-schema#label> "Dateiname"@de <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://ont.enapso.com/repo#name> "EnapsoTest Repository located in Ashesh Goplani hp i7" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoTest Repository located in Ashesh Goplani hp i7"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://ont.enapso.com/repo#id> "EnapsoTest" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#id> <http://www.w3.org/2000/01/rdf-schema#comment> "Unique identifier. For instance to be used as unique name for a certain repository inside one graph db instance."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#id> <http://www.w3.org/2000/01/rdf-schema#label> "Id"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasDatabaseInstance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasDatabaseInstance> <http://www.w3.org/2000/01/rdf-schema#comment> "Each Database Instance has at least one repository" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasDatabaseInstance> <http://www.w3.org/2000/01/rdf-schema#label> "Database Instance" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://ont.enapso.com/repo#name> "GraphDB on Ashesh Goplani hp i7" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Ashesh Goplani hp i7"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://ont.enapso.com/repo#version> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository> <http://www.w3.org/2000/01/rdf-schema#comment> "Describes one repository within one graph database host. Each repository can contain multiple graphs."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository> <http://www.w3.org/2000/01/rdf-schema#label> "Repository"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Be765800aX2De043X2D422aX2Db36dX2Db054881933ee <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B1d3c4b29X2D2136X2D4286X2D8fe7X2De9bf2a02ac7b <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B1036a95dX2D92c3X2D4dceX2D8795X2Df59f97be2200 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hostname> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hostname> <http://www.w3.org/2000/01/rdf-schema#comment> "The host name."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hostname> <http://www.w3.org/2000/01/rdf-schema#label> "Hostname"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasDatabaseSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasDatabaseSystem> <http://www.w3.org/2000/01/rdf-schema#comment> "Each host has a Database System" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasDatabaseSystem> <http://www.w3.org/2000/01/rdf-schema#label> "Database System"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasDatabaseSystem> <http://www.w3.org/2000/01/rdf-schema#range> <http://ont.enapso.com/repo#DatabaseSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem> <http://www.w3.org/2000/01/rdf-schema#comment> "Describe a Database System"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem> <http://www.w3.org/2000/01/rdf-schema#label> "Database System"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B732c6367X2D9906X2D4d04X2D9c93X2Ddc97d168e1f1 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B228a9f07X2Dc3e4X2D439aX2Dbce0X2D7148343e37d5 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_462af229_a60e_4c80_9ffc_aef39d940653> <http://ont.enapso.com/repo#name> "The Graph in Ashesh Goplani hp i7 in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_462af229_a60e_4c80_9ffc_aef39d940653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_462af229_a60e_4c80_9ffc_aef39d940653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_462af229_a60e_4c80_9ffc_aef39d940653> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_462af229_a60e_4c80_9ffc_aef39d940653> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/dotnetpro" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_462af229_a60e_4c80_9ffc_aef39d940653> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://ont.enapso.com/repo#name> "EnapsoChecking repository is located a Ashesh Goplani hp i7" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoChecking repository is located a Ashesh Goplani hp i7"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://ont.enapso.com/repo#id> "EnapsoChecking" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_aef8e43d_a563_4834_bbe1_dbf7e8bb786b> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#version> <http://www.w3.org/2000/01/rdf-schema#comment> "Version Details" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#version> <http://www.w3.org/2000/01/rdf-schema#label> "Version"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#url> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#url> <http://www.w3.org/2000/01/rdf-schema#label> "URL"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#url> <http://www.w3.org/2000/01/rdf-schema#label> "URL"@de <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_aef8e43d_a563_4834_bbe1_dbf7e8bb786b> <http://ont.enapso.com/repo#name> "GraphDB on Alexander Schulze's iMac" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_aef8e43d_a563_4834_bbe1_dbf7e8bb786b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_aef8e43d_a563_4834_bbe1_dbf7e8bb786b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_aef8e43d_a563_4834_bbe1_dbf7e8bb786b> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Alexander Schulze's iMac"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_aef8e43d_a563_4834_bbe1_dbf7e8bb786b> <http://ont.enapso.com/repo#version> "4" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_aef8e43d_a563_4834_bbe1_dbf7e8bb786b> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasHost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasHost> <http://www.w3.org/2000/01/rdf-schema#comment> "Each host can operate one or more database instances."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasHost> <http://www.w3.org/2000/01/rdf-schema#label> "Host"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasHost> <http://www.w3.org/2000/01/rdf-schema#range> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://ont.enapso.com/repo#name> "Alexander Schulze's iMac I" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://www.w3.org/2000/01/rdf-schema#comment> "Alexander Schulze's iMac I"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_b736e30c_4a61_4721_bfcd_57e196b321fe> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://ont.enapso.com/repo#osVersion> "7" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_0134bc8c_e40c_4394_b4c7_310a206e10da> <http://ont.enapso.com/repo#dbVersion> "8.9" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance> <http://www.w3.org/2000/01/rdf-schema#comment> "Describes a concrete database instance. Operated at a certain host."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance> <http://www.w3.org/2000/01/rdf-schema#label> "Database Instance"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bb38d3165X2D61d2X2D4799X2D82a9X2Df23e4c344bd5 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B40d342f3X2D12f0X2D4695X2Dadb9X2D595ceee4e3b0 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bd880db64X2D9c4dX2D4ed4X2Da2aaX2Dd39d8f1ecfd7 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6a028729_e0d3_4c0e_be4f_3660130bbf3c> <http://ont.enapso.com/repo#name> "Stand alone desktop, laptop, pc, workstation." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6a028729_e0d3_4c0e_be4f_3660130bbf3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6a028729_e0d3_4c0e_be4f_3660130bbf3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Platform> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6a028729_e0d3_4c0e_be4f_3660130bbf3c> <http://www.w3.org/2000/01/rdf-schema#comment> "Stand alone desktop, laptop, pc, workstation."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform> <http://www.w3.org/2000/01/rdf-schema#comment> "Definiition of the platform where a certain host is operated. This can be e.g. AWS, Azure or On-Premise."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform> <http://www.w3.org/2000/01/rdf-schema#label> "Platform"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B5fa5d275X2Df1b5X2D451fX2Da43aX2Dc4218b293add <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_8224f055_2d29_4034_98d9_037e175e9edf> <http://ont.enapso.com/repo#name> "Unix" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_8224f055_2d29_4034_98d9_037e175e9edf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_8224f055_2d29_4034_98d9_037e175e9edf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#OperatingSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_8224f055_2d29_4034_98d9_037e175e9edf> <http://www.w3.org/2000/01/rdf-schema#comment> "Unix"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem> <http://www.w3.org/2000/01/rdf-schema#comment> "Describes an operating system on a certain host."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem> <http://www.w3.org/2000/01/rdf-schema#label> "Operating System"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Ba6ab9cb5X2Daad9X2D4bf6X2D8666X2D0e2351a1ffe6 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bd0d726ceX2De5b5X2D45f8X2Da4c3X2D639c9c7a9827 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_c0ee28df_53dd_45b1_a961_2f134c72e12f> <http://ont.enapso.com/repo#name> "Enapso Foundational Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_c0ee28df_53dd_45b1_a961_2f134c72e12f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_c0ee28df_53dd_45b1_a961_2f134c72e12f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_c0ee28df_53dd_45b1_a961_2f134c72e12f> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Foundational Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_c0ee28df_53dd_45b1_a961_2f134c72e12f> <http://ont.enapso.com/repo#url> "EnapsoFoundation.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology> <http://www.w3.org/2000/01/rdf-schema#comment> "Definition of an ontology in the Enapso ontology repository. Usually, each ontology is associated with a certain graph in a certain repository of a certain host."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology> <http://www.w3.org/2000/01/rdf-schema#label> "Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B882d96c9X2Db26cX2D484cX2DabcbX2D1aa79fe581dc <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B1eef7231X2D3392X2D4a85X2D9c84X2Dab97b7e95942 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bad12375_698e_4016_84dd_7e49fe5cfbfb> <http://ont.enapso.com/repo#name> "The Graph in Ashesh Goplani hp i7 in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bad12375_698e_4016_84dd_7e49fe5cfbfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bad12375_698e_4016_84dd_7e49fe5cfbfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bad12375_698e_4016_84dd_7e49fe5cfbfb> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bad12375_698e_4016_84dd_7e49fe5cfbfb> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/test" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bad12375_698e_4016_84dd_7e49fe5cfbfb> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_7fe3a9a5_8e7c_40f9_8d26_5697db774da0> <http://ont.enapso.com/repo#name> "Enapso Terms Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_7fe3a9a5_8e7c_40f9_8d26_5697db774da0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_7fe3a9a5_8e7c_40f9_8d26_5697db774da0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_7fe3a9a5_8e7c_40f9_8d26_5697db774da0> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Terms Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_7fe3a9a5_8e7c_40f9_8d26_5697db774da0> <http://ont.enapso.com/repo#prefix> "enterms" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_7fe3a9a5_8e7c_40f9_8d26_5697db774da0> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/terms#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_c02c7276_e901_4514_aa3c_fa8aef1663b9> <http://ont.enapso.com/repo#name> "Working Ontology Language" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_c02c7276_e901_4514_aa3c_fa8aef1663b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_c02c7276_e901_4514_aa3c_fa8aef1663b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_c02c7276_e901_4514_aa3c_fa8aef1663b9> <http://www.w3.org/2000/01/rdf-schema#comment> "Working Ontology Language"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_c02c7276_e901_4514_aa3c_fa8aef1663b9> <http://ont.enapso.com/repo#prefix> "owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_c02c7276_e901_4514_aa3c_fa8aef1663b9> <http://ont.enapso.com/repo#namespace> "http://www.w3.org/2002/07/owl#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_75eede97_cc40_4364_b19e_84d343afacc1> <http://ont.enapso.com/repo#name> "Amazon Web Services" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_75eede97_cc40_4364_b19e_84d343afacc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_75eede97_cc40_4364_b19e_84d343afacc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Platform> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_75eede97_cc40_4364_b19e_84d343afacc1> <http://www.w3.org/2000/01/rdf-schema#comment> "Amazon Web Services"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_f5a52c9d_1c3e_4fa8_bfb2_587958d4e8c3> <http://ont.enapso.com/repo#name> "Iplex" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_f5a52c9d_1c3e_4fa8_bfb2_587958d4e8c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_f5a52c9d_1c3e_4fa8_bfb2_587958d4e8c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Tenant> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_f5a52c9d_1c3e_4fa8_bfb2_587958d4e8c3> <http://www.w3.org/2000/01/rdf-schema#comment> "Iplex"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant> <http://www.w3.org/2000/01/rdf-schema#comment> "A tenant is a paying customer of the Enapso platform. Each tenant can have one or multiple environments."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant> <http://www.w3.org/2000/01/rdf-schema#label> "Tenant"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B31c21d06X2D0c43X2D4c7fX2D9253X2D61b3933967bf <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#importedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#importedBy> <http://www.w3.org/2000/01/rdf-schema#comment> "Specifies for a certain ontology by which other ontologies it is used."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#importedBy> <http://www.w3.org/2000/01/rdf-schema#label> "imported by"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#importedBy> <http://www.w3.org/2002/07/owl#inverseOf> <http://ont.enapso.com/repo#imports> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasGraph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasGraph> <http://www.w3.org/2000/01/rdf-schema#comment> "Each repository can have one or multiple graphs."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasGraph> <http://www.w3.org/2000/01/rdf-schema#label> "Graph"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasGraph> <http://www.w3.org/2000/01/rdf-schema#range> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_144eb313_94bd_4506_86cc_2f959412b61d> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_144eb313_94bd_4506_86cc_2f959412b61d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_144eb313_94bd_4506_86cc_2f959412b61d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_144eb313_94bd_4506_86cc_2f959412b61d> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_144eb313_94bd_4506_86cc_2f959412b61d> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/dotnetpro" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_144eb313_94bd_4506_86cc_2f959412b61d> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://ont.enapso.com/repo#name> "EnapsoChecking Repository located in Muhammad Yasir Dell i5" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoChecking Repository located in Muhammad Yasir Dell i5"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://ont.enapso.com/repo#id> "EnapsoChecking" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_736c6895_7ed9_4b00_a062_7d5eaa19135f> <http://ont.enapso.com/repo#name> "Linux (RedHat)" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_736c6895_7ed9_4b00_a062_7d5eaa19135f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_736c6895_7ed9_4b00_a062_7d5eaa19135f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#OperatingSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_736c6895_7ed9_4b00_a062_7d5eaa19135f> <http://www.w3.org/2000/01/rdf-schema#comment> "Linux (RedHat)"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1d9a32b1_fd00_4565_8d1b_4b9e1bb0f264> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1d9a32b1_fd00_4565_8d1b_4b9e1bb0f264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1d9a32b1_fd00_4565_8d1b_4b9e1bb0f264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1d9a32b1_fd00_4565_8d1b_4b9e1bb0f264> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1d9a32b1_fd00_4565_8d1b_4b9e1bb0f264> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/gse" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1d9a32b1_fd00_4565_8d1b_4b9e1bb0f264> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_b49357e0_33bc_4163_8fef_2cad56ac72a5> <http://ont.enapso.com/repo#name> "EnapsoChecking Repository located in Martin Künzle laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_b49357e0_33bc_4163_8fef_2cad56ac72a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_b49357e0_33bc_4163_8fef_2cad56ac72a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_b49357e0_33bc_4163_8fef_2cad56ac72a5> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoChecking Repository located in Martin Künzle laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_b49357e0_33bc_4163_8fef_2cad56ac72a5> <http://ont.enapso.com/repo#id> "EnapsoChecking" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_b49357e0_33bc_4163_8fef_2cad56ac72a5> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_0cd52b9e_888c_4a33_acde_89effe38ddee> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_0cd52b9e_888c_4a33_acde_89effe38ddee> <http://ont.enapso.com/repo#name> "GraphDB on Martin Künzle's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_0cd52b9e_888c_4a33_acde_89effe38ddee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_0cd52b9e_888c_4a33_acde_89effe38ddee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_0cd52b9e_888c_4a33_acde_89effe38ddee> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Martin Künzle's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_0cd52b9e_888c_4a33_acde_89effe38ddee> <http://ont.enapso.com/repo#version> "9.2" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_0cd52b9e_888c_4a33_acde_89effe38ddee> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasOperatingSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasOperatingSystem> <http://www.w3.org/2000/01/rdf-schema#comment> "Each host has a Operating System" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasOperatingSystem> <http://www.w3.org/2000/01/rdf-schema#label> "Operating System"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasOperatingSystem> <http://www.w3.org/2000/01/rdf-schema#range> <http://ont.enapso.com/repo#OperatingSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasEnvironment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasEnvironment> <http://www.w3.org/2000/01/rdf-schema#comment> "Each tenant can operate one or more enviroments."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasEnvironment> <http://www.w3.org/2000/01/rdf-schema#label> "Environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasEnvironment> <http://www.w3.org/2000/01/rdf-schema#range> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment> <http://www.w3.org/2000/01/rdf-schema#comment> "An enviroment consists of one or more hosts. A tenant can have one or more environments."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment> <http://www.w3.org/2000/01/rdf-schema#label> "Environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B6af605baX2Dd335X2D4df5X2Da247X2D7df2f103838f <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B988fde2cX2D72a4X2D4304X2Db09cX2De5190b5186e7 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_03249d09_8038_421e_8376_467b4a430e56> <http://ont.enapso.com/repo#name> "Enapso JavaScript Abstract Syntax Tree Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_03249d09_8038_421e_8376_467b4a430e56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_03249d09_8038_421e_8376_467b4a430e56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_03249d09_8038_421e_8376_467b4a430e56> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso JavaScript Abstract Syntax Tree Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_03249d09_8038_421e_8376_467b4a430e56> <http://ont.enapso.com/repo#url> "EnapsoJSAST.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_be8010df_5906_43ea_a1b3_fe926eb29fe7> <http://ont.enapso.com/repo#name> "EnapsoChecking Repository located in Siva laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_be8010df_5906_43ea_a1b3_fe926eb29fe7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_be8010df_5906_43ea_a1b3_fe926eb29fe7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_be8010df_5906_43ea_a1b3_fe926eb29fe7> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoChecking Repository located in Siva laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_be8010df_5906_43ea_a1b3_fe926eb29fe7> <http://ont.enapso.com/repo#id> "EnapsoChecking" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_be8010df_5906_43ea_a1b3_fe926eb29fe7> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_665295fd_6ba1_4e2e_bc2e_452168a848e6> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_665295fd_6ba1_4e2e_bc2e_452168a848e6> <http://ont.enapso.com/repo#name> "GraphDB on Siva's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_665295fd_6ba1_4e2e_bc2e_452168a848e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_665295fd_6ba1_4e2e_bc2e_452168a848e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_665295fd_6ba1_4e2e_bc2e_452168a848e6> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Siva's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_665295fd_6ba1_4e2e_bc2e_452168a848e6> <http://ont.enapso.com/repo#version> "9.0" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_665295fd_6ba1_4e2e_bc2e_452168a848e6> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_0a2c8421_036d_46ef_8a48_e0fca429ccdc> <http://ont.enapso.com/repo#name> "EnapsoChecking Repository located in Fida laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_0a2c8421_036d_46ef_8a48_e0fca429ccdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_0a2c8421_036d_46ef_8a48_e0fca429ccdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_0a2c8421_036d_46ef_8a48_e0fca429ccdc> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoChecking Repository located in Fida laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_0a2c8421_036d_46ef_8a48_e0fca429ccdc> <http://ont.enapso.com/repo#id> "EnapsoChecking" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_0a2c8421_036d_46ef_8a48_e0fca429ccdc> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_1a8b2422_9b1c_48bd_88a1_4794fd09df6e> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_1a8b2422_9b1c_48bd_88a1_4794fd09df6e> <http://ont.enapso.com/repo#name> "GraphDB on Fida's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_1a8b2422_9b1c_48bd_88a1_4794fd09df6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_1a8b2422_9b1c_48bd_88a1_4794fd09df6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_1a8b2422_9b1c_48bd_88a1_4794fd09df6e> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Fida's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_1a8b2422_9b1c_48bd_88a1_4794fd09df6e> <http://ont.enapso.com/repo#version> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_1a8b2422_9b1c_48bd_88a1_4794fd09df6e> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://ont.enapso.com/repo#name> "GraphDB on Alexander Schulze's Macbook Pro II" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Alexander Schulze's Macbook Pro II"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://ont.enapso.com/repo#version> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://ont.enapso.com/repo#name> "EnapsoDotNetProDemo Repository located in Muhammad Yasir Dell i5" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoDotNetProDemo Repository located in Muhammad Yasir Dell i5"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://ont.enapso.com/repo#id> "EnapsoDotNetProDemo" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://ont.enapso.com/repo#name> "GraphDB on Muhammad Yasir Dell i5" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Muhammad Yasir Dell i5"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://ont.enapso.com/repo#version> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://ont.enapso.com/repo#name> "Muhammad Yasir's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://www.w3.org/2000/01/rdf-schema#comment> "Muhammad Yasir's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_833a44cc_ec58_4202_b44d_27460ae94e2d> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://ont.enapso.com/repo#osVersion> "10" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_01141633_0716_4ae3_b38b_aa12b2197c4a> <http://ont.enapso.com/repo#dbVersion> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#osVersion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#osVersion> <http://www.w3.org/2000/01/rdf-schema#comment> "Version of Operating System" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#osVersion> <http://www.w3.org/2000/01/rdf-schema#label> "Operating System Version"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#dbVersion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#dbVersion> <http://www.w3.org/2000/01/rdf-schema#comment> "The version of the Database" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#dbVersion> <http://www.w3.org/2000/01/rdf-schema#label> "Database Version"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://ont.enapso.com/repo#name> "Windows" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#OperatingSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://www.w3.org/2000/01/rdf-schema#comment> "Windows"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_833a44cc_ec58_4202_b44d_27460ae94e2d> <http://ont.enapso.com/repo#name> "Muhammad Yasir's local environment" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_833a44cc_ec58_4202_b44d_27460ae94e2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_833a44cc_ec58_4202_b44d_27460ae94e2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_833a44cc_ec58_4202_b44d_27460ae94e2d> <http://www.w3.org/2000/01/rdf-schema#comment> "Muhammad Yasir's local environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_833a44cc_ec58_4202_b44d_27460ae94e2d> <http://ont.enapso.com/repo#hasTenant> <http://ont.enapso.com/repo#Tenant_0143e7ee_fbdd_45b3_879f_fedc78e42ab4> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo#name> "GraphDB (Ontotext)" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB (Ontotext)"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#comment> "Describes one physical graph database host. Each host can contain multiple repositories. Each repository can contain multiple graphs."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#label> "Host"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bbd701a27X2D3b2aX2D465dX2Db9b0X2Dace517a2bf88 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bb1303450X2De48dX2D4d57X2Db79aX2D9b6f4599a7a8 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B4f56e629X2Db936X2D4b92X2Da033X2D67f80d60a81a <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B867b52f5X2D26f6X2D4f3dX2Dac37X2D5a6d2e6c6557 <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:Bd745d65aX2D53ddX2D4a52X2D8965X2Dc4d81f1908df <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:B9c42fdacX2D3b6aX2D4f69X2Dbf2cX2Dea00732c32ac <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_24a1d382_025d_43f0_a54e_ddbefc1037a7> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoDotNetPrDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_24a1d382_025d_43f0_a54e_ddbefc1037a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_24a1d382_025d_43f0_a54e_ddbefc1037a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_24a1d382_025d_43f0_a54e_ddbefc1037a7> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoDotNetPrDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_24a1d382_025d_43f0_a54e_ddbefc1037a7> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/jsast" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_24a1d382_025d_43f0_a54e_ddbefc1037a7> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_43c82926_a072_4057_bb2c_c6c5b22cd156> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_43c82926_a072_4057_bb2c_c6c5b22cd156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_43c82926_a072_4057_bb2c_c6c5b22cd156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_43c82926_a072_4057_bb2c_c6c5b22cd156> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_43c82926_a072_4057_bb2c_c6c5b22cd156> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/repo" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_43c82926_a072_4057_bb2c_c6c5b22cd156> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://ont.enapso.com/repo#name> "Repository in Muhammad Yasir Laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://www.w3.org/2000/01/rdf-schema#comment> "Repository in Muhammad Yasir Laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://ont.enapso.com/repo#id> "EnapsoTest" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_8a41da22_e9d8_4396_8440_a3941faeac49> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1242ac41_1811_4625_8664_6a260bfe6d3b> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1242ac41_1811_4625_8664_6a260bfe6d3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1242ac41_1811_4625_8664_6a260bfe6d3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1242ac41_1811_4625_8664_6a260bfe6d3b> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1242ac41_1811_4625_8664_6a260bfe6d3b> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/terms" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1242ac41_1811_4625_8664_6a260bfe6d3b> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_47ceb7c2_09c5_4b6d_a400_4a74ec945e3a> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_47ceb7c2_09c5_4b6d_a400_4a74ec945e3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_47ceb7c2_09c5_4b6d_a400_4a74ec945e3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_47ceb7c2_09c5_4b6d_a400_4a74ec945e3a> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_47ceb7c2_09c5_4b6d_a400_4a74ec945e3a> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/test" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_47ceb7c2_09c5_4b6d_a400_4a74ec945e3a> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://ont.enapso.com/repo#name> "EnapsoTest Repository located in Alexander Schulze MacBook Pro II" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoTest Repository located in Alexander Schulze MacBook Pro II"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://ont.enapso.com/repo#id> "EnapsoTest" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1620132d_9bbc_4bad_846c_349eab25d224> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1620132d_9bbc_4bad_846c_349eab25d224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1620132d_9bbc_4bad_846c_349eab25d224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1620132d_9bbc_4bad_846c_349eab25d224> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1620132d_9bbc_4bad_846c_349eab25d224> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/extjs" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_1620132d_9bbc_4bad_846c_349eab25d224> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_94a4cf76_f7f2_4b60_b4d6_2763dce8f263> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_94a4cf76_f7f2_4b60_b4d6_2763dce8f263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_94a4cf76_f7f2_4b60_b4d6_2763dce8f263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_94a4cf76_f7f2_4b60_b4d6_2763dce8f263> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_94a4cf76_f7f2_4b60_b4d6_2763dce8f263> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/dotnetpro" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_94a4cf76_f7f2_4b60_b4d6_2763dce8f263> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://ont.enapso.com/repo#name> "EnapsoChecking Repository located in Alexander Schulze MacBook Pro II" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoChecking Repository located in Alexander Schulze MacBook Pro II"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://ont.enapso.com/repo#id> "EnapsoChecking" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_41710204_2620_4483_a31d_963e2075767f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_06211c8c_4b66_4a9d_a483_a7161734a6f7> <http://ont.enapso.com/repo#name> "Enapso JavaScript Abstract Syntax Tree Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_06211c8c_4b66_4a9d_a483_a7161734a6f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_06211c8c_4b66_4a9d_a483_a7161734a6f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_06211c8c_4b66_4a9d_a483_a7161734a6f7> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso JavaScript Abstract Syntax Tree Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_06211c8c_4b66_4a9d_a483_a7161734a6f7> <http://ont.enapso.com/repo#prefix> "enjsast" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_06211c8c_4b66_4a9d_a483_a7161734a6f7> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/jsast#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_3e35cc32_378a_40fa_ad11_74ac431b7aa9> <http://ont.enapso.com/repo#name> "Apache Jena/Fuseki" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_3e35cc32_378a_40fa_ad11_74ac431b7aa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_3e35cc32_378a_40fa_ad11_74ac431b7aa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_3e35cc32_378a_40fa_ad11_74ac431b7aa9> <http://www.w3.org/2000/01/rdf-schema#comment> "Apache Jena/Fuseki"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_3e35cc32_378a_40fa_ad11_74ac431b7aa9> <http://ont.enapso.com/repo#version> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_679ba549_2894_44e8_a98b_98054e128b53> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_679ba549_2894_44e8_a98b_98054e128b53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_679ba549_2894_44e8_a98b_98054e128b53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_679ba549_2894_44e8_a98b_98054e128b53> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_679ba549_2894_44e8_a98b_98054e128b53> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/ontapi" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_679ba549_2894_44e8_a98b_98054e128b53> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_9cc12701_6636_4469_99d2_b9ee3fcc713a> <http://ont.enapso.com/repo#name> "Enapso Sencha ExtJS Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_9cc12701_6636_4469_99d2_b9ee3fcc713a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_9cc12701_6636_4469_99d2_b9ee3fcc713a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_9cc12701_6636_4469_99d2_b9ee3fcc713a> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Sencha ExtJS Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_9cc12701_6636_4469_99d2_b9ee3fcc713a> <http://ont.enapso.com/repo#prefix> "enextjs" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_9cc12701_6636_4469_99d2_b9ee3fcc713a> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/extjs#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8ac9f951_b8b8_4f97_b2e2_da2aa344ced6> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8ac9f951_b8b8_4f97_b2e2_da2aa344ced6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8ac9f951_b8b8_4f97_b2e2_da2aa344ced6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8ac9f951_b8b8_4f97_b2e2_da2aa344ced6> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8ac9f951_b8b8_4f97_b2e2_da2aa344ced6> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/foundation" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8ac9f951_b8b8_4f97_b2e2_da2aa344ced6> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_be07652f_b314_4227_8b6b_9d32d238e571> <http://ont.enapso.com/repo#name> "Enapso Terms Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_be07652f_b314_4227_8b6b_9d32d238e571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_be07652f_b314_4227_8b6b_9d32d238e571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_be07652f_b314_4227_8b6b_9d32d238e571> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Terms Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_be07652f_b314_4227_8b6b_9d32d238e571> <http://ont.enapso.com/repo#url> "EnapsoTerms.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_174ff230_d7b9_4993_bb35_a2da61215475> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_174ff230_d7b9_4993_bb35_a2da61215475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_174ff230_d7b9_4993_bb35_a2da61215475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_174ff230_d7b9_4993_bb35_a2da61215475> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_174ff230_d7b9_4993_bb35_a2da61215475> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/foundation" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_174ff230_d7b9_4993_bb35_a2da61215475> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_27ebbed9_fd22_4e5c_9227_956cf475a4e5> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://ont.enapso.com/repo#name> "Alexander Schulze's MacBook Pro II" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://www.w3.org/2000/01/rdf-schema#comment> "Alexander Schulze's MacBook Pro II"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_b736e30c_4a61_4721_bfcd_57e196b321fe> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://ont.enapso.com/repo#osVersion> "10.15.3" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_79d4c2c0_857c_4666_beb9_e0c8b2617c6e> <http://ont.enapso.com/repo#dbVersion> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_b736e30c_4a61_4721_bfcd_57e196b321fe> <http://ont.enapso.com/repo#name> "MacOS" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_b736e30c_4a61_4721_bfcd_57e196b321fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_b736e30c_4a61_4721_bfcd_57e196b321fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#OperatingSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_b736e30c_4a61_4721_bfcd_57e196b321fe> <http://www.w3.org/2000/01/rdf-schema#comment> "MacOS"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://ont.enapso.com/repo#name> "Alexander Schulze's local environment" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://www.w3.org/2000/01/rdf-schema#comment> "Alexander Schulze's local environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://ont.enapso.com/repo#hasTenant> <http://ont.enapso.com/repo#Tenant_0143e7ee_fbdd_45b3_879f_fedc78e42ab4> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e41c32cd_9e73_432d_b269_3df775d2a74c> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e41c32cd_9e73_432d_b269_3df775d2a74c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e41c32cd_9e73_432d_b269_3df775d2a74c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e41c32cd_9e73_432d_b269_3df775d2a74c> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e41c32cd_9e73_432d_b269_3df775d2a74c> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/jsast" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e41c32cd_9e73_432d_b269_3df775d2a74c> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_49260c94_b3ac_4dd0_baf7_df762e92179e> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_8b46fda0_3671_42e1_a166_746befe9bb49> <http://ont.enapso.com/repo#name> "Microsoft Azure" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_8b46fda0_3671_42e1_a166_746befe9bb49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_8b46fda0_3671_42e1_a166_746befe9bb49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Platform> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_8b46fda0_3671_42e1_a166_746befe9bb49> <http://www.w3.org/2000/01/rdf-schema#comment> "Microsoft Azure"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_0143e7ee_fbdd_45b3_879f_fedc78e42ab4> <http://ont.enapso.com/repo#name> "Innotrade GmbH" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_0143e7ee_fbdd_45b3_879f_fedc78e42ab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_0143e7ee_fbdd_45b3_879f_fedc78e42ab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Tenant> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_0143e7ee_fbdd_45b3_879f_fedc78e42ab4> <http://www.w3.org/2000/01/rdf-schema#comment> "Innotrade GmbH"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://ont.enapso.com/repo#name> "Alexander Schulze's MacBook Pro I" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://www.w3.org/2000/01/rdf-schema#comment> "Alexander Schulze's MacBook Pro I"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_b736e30c_4a61_4721_bfcd_57e196b321fe> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_7308c29c_9c98_4d14_80ad_546c498d91ef> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://ont.enapso.com/repo#osVersion> "10.15.3" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://ont.enapso.com/repo#dbVersion> "9.0" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6b4a3d16_e084_47fa_96ba_6dc7cc430077> <http://ont.enapso.com/repo#name> "Private Cloud" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6b4a3d16_e084_47fa_96ba_6dc7cc430077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6b4a3d16_e084_47fa_96ba_6dc7cc430077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Platform> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_6b4a3d16_e084_47fa_96ba_6dc7cc430077> <http://www.w3.org/2000/01/rdf-schema#comment> "Private Cloud"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasTenant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasTenant> <http://www.w3.org/2000/01/rdf-schema#comment> "Each environment has one parent tenant."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasTenant> <http://www.w3.org/2000/01/rdf-schema#label> "Tenant"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#hasTenant> <http://www.w3.org/2000/01/rdf-schema#range> <http://ont.enapso.com/repo#Tenant> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_0ea87735_977d_461b_88c5_749d1a5bf909> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_0ea87735_977d_461b_88c5_749d1a5bf909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_0ea87735_977d_461b_88c5_749d1a5bf909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_0ea87735_977d_461b_88c5_749d1a5bf909> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_0ea87735_977d_461b_88c5_749d1a5bf909> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/repo" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_0ea87735_977d_461b_88c5_749d1a5bf909> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d59211cf_09ae_4cdb_a8f9_82d5e85fc450> <http://ont.enapso.com/repo#name> "Enapso Foundational Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d59211cf_09ae_4cdb_a8f9_82d5e85fc450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d59211cf_09ae_4cdb_a8f9_82d5e85fc450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d59211cf_09ae_4cdb_a8f9_82d5e85fc450> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Foundational Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d59211cf_09ae_4cdb_a8f9_82d5e85fc450> <http://ont.enapso.com/repo#prefix> "enf" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d59211cf_09ae_4cdb_a8f9_82d5e85fc450> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/foundation#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Ontology Repository Management Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo> <http://www.w3.org/2000/01/rdf-schema#comment> "(C) Copyright 2019-2020 Innotrade GmbH, Herzogenrath, NRW, Germany"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo> <http://www.w3.org/2002/07/owl#versionIRI> <http://ont.enapso.com/repo/1.0.0> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://ont.enapso.com/repo#name> "Martin Künzle's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://www.w3.org/2000/01/rdf-schema#comment> "Martin Künzle's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://ont.enapso.com/repo#version> "9.2" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_14eaf5b6_1704_4f8d_b315_8a8728640b66> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_28180341_d1bc_4dbb_aa63_e079001d2513> <http://ont.enapso.com/repo#osVersion> "8.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_65a0558a_6c57_469f_9629_e1a3ce94bd7a> <http://ont.enapso.com/repo#name> "Resource Description Framework" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_65a0558a_6c57_469f_9629_e1a3ce94bd7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_65a0558a_6c57_469f_9629_e1a3ce94bd7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_65a0558a_6c57_469f_9629_e1a3ce94bd7a> <http://www.w3.org/2000/01/rdf-schema#comment> "Resource Description Framework"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_65a0558a_6c57_469f_9629_e1a3ce94bd7a> <http://ont.enapso.com/repo#prefix> "rdf" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_65a0558a_6c57_469f_9629_e1a3ce94bd7a> <http://ont.enapso.com/repo#namespace> "http://www.w3.org/1999/02/22-rdf-syntax-ns#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bc252a61_42d2_455e_b720_cb276a4f6b4f> <http://ont.enapso.com/repo#name> "The Graph in Ashesh Goplani hp i7 in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bc252a61_42d2_455e_b720_cb276a4f6b4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bc252a61_42d2_455e_b720_cb276a4f6b4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bc252a61_42d2_455e_b720_cb276a4f6b4f> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bc252a61_42d2_455e_b720_cb276a4f6b4f> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/jsast" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_bc252a61_42d2_455e_b720_cb276a4f6b4f> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://ont.enapso.com/repo#name> "EnapsoDotNetProDemo repository is located a Ashesh Goplani hp i7" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://www.w3.org/2000/01/rdf-schema#comment> "EnapsoDotNetProDemo repository is located a Ashesh Goplani hp i7"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://ont.enapso.com/repo#id> "EnapsoDotNetProDemo" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo#DatabaseInstance_789c7c2b_9928_42cf_b1ec_f079385c23ca> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b62e1d40_7e61_4363_bb45_6e035fa8d694> <http://ont.enapso.com/repo#name> "The Graph in Ashesh Goplani hp i7 in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b62e1d40_7e61_4363_bb45_6e035fa8d694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b62e1d40_7e61_4363_bb45_6e035fa8d694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b62e1d40_7e61_4363_bb45_6e035fa8d694> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b62e1d40_7e61_4363_bb45_6e035fa8d694> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/ontapi" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b62e1d40_7e61_4363_bb45_6e035fa8d694> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_ce6df350_20ed_43c2_bc62_2c0a06f7b078> <http://ont.enapso.com/repo#name> "Enapso DotNetPro Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_ce6df350_20ed_43c2_bc62_2c0a06f7b078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_ce6df350_20ed_43c2_bc62_2c0a06f7b078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_ce6df350_20ed_43c2_bc62_2c0a06f7b078> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso DotNetPro Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_ce6df350_20ed_43c2_bc62_2c0a06f7b078> <http://ont.enapso.com/repo#prefix> "dnp" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_ce6df350_20ed_43c2_bc62_2c0a06f7b078> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/dotnetpro#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_eb7985dc_c13d_476d_b8ef_ea5dd6f72f77> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_eb7985dc_c13d_476d_b8ef_ea5dd6f72f77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_eb7985dc_c13d_476d_b8ef_ea5dd6f72f77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_eb7985dc_c13d_476d_b8ef_ea5dd6f72f77> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_eb7985dc_c13d_476d_b8ef_ea5dd6f72f77> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/test" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_eb7985dc_c13d_476d_b8ef_ea5dd6f72f77> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_6159c98a_6c46_4cc3_9efd_6320775ac4ed> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e1d78937_146e_45dc_adeb_faf30b651d76> <http://ont.enapso.com/repo#name> "The Graph in Ashesh Goplani hp i7 in the EnapsoDotNetProDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e1d78937_146e_45dc_adeb_faf30b651d76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e1d78937_146e_45dc_adeb_faf30b651d76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e1d78937_146e_45dc_adeb_faf30b651d76> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoDotNetProDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e1d78937_146e_45dc_adeb_faf30b651d76> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/gse" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_e1d78937_146e_45dc_adeb_faf30b651d76> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_2a8d3e7c_a584_4623_98f8_901996dabac1> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_94bad780_3cdd_4942_abc2_a60ca6788745> <http://ont.enapso.com/repo#name> "Stardog" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_94bad780_3cdd_4942_abc2_a60ca6788745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_94bad780_3cdd_4942_abc2_a60ca6788745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseSystem_94bad780_3cdd_4942_abc2_a60ca6788745> <http://www.w3.org/2000/01/rdf-schema#comment> "Stardog"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_55c5b6d4_9c2e_45f4_aa30_98a15c8ad5b2> <http://ont.enapso.com/repo#name> "XML Schema Definition" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_55c5b6d4_9c2e_45f4_aa30_98a15c8ad5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_55c5b6d4_9c2e_45f4_aa30_98a15c8ad5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_55c5b6d4_9c2e_45f4_aa30_98a15c8ad5b2> <http://www.w3.org/2000/01/rdf-schema#comment> "XML Schema Definition"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_55c5b6d4_9c2e_45f4_aa30_98a15c8ad5b2> <http://ont.enapso.com/repo#prefix> "xsd" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_55c5b6d4_9c2e_45f4_aa30_98a15c8ad5b2> <http://ont.enapso.com/repo#namespace> "http://www.w3.org/2001/XMLSchema#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b957cf06_b02c_48e6_a6f3_52b53d5b740c> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoDotNetPrDemo repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b957cf06_b02c_48e6_a6f3_52b53d5b740c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b957cf06_b02c_48e6_a6f3_52b53d5b740c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b957cf06_b02c_48e6_a6f3_52b53d5b740c> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoDotNetPrDemo repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b957cf06_b02c_48e6_a6f3_52b53d5b740c> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/gse" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b957cf06_b02c_48e6_a6f3_52b53d5b740c> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_af8ed397_c907_4353_86c4_56009c84dc29> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_31cf4adb_b552_45f5_9997_98acb07263c4> <http://ont.enapso.com/repo#name> "Siva's local Environment" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_31cf4adb_b552_45f5_9997_98acb07263c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_31cf4adb_b552_45f5_9997_98acb07263c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_31cf4adb_b552_45f5_9997_98acb07263c4> <http://www.w3.org/2000/01/rdf-schema#comment> "Siva's local Environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_31cf4adb_b552_45f5_9997_98acb07263c4> <http://ont.enapso.com/repo#hasTenant> <http://ont.enapso.com/repo#Tenant_f5a52c9d_1c3e_4fa8_bfb2_587958d4e8c3> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://ont.enapso.com/repo#name> "Siva's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://www.w3.org/2000/01/rdf-schema#comment> "Siva's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://ont.enapso.com/repo#version> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_31cf4adb_b552_45f5_9997_98acb07263c4> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_d7ff76c6_cfd5_479f_9c36_d40825259a8d> <http://ont.enapso.com/repo#osVersion> "7" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_128100a6_8c71_4fd8_a86a_22f2bb88782f> <http://ont.enapso.com/repo#name> "The Graph in Ashesh Goplani hp i7 in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_128100a6_8c71_4fd8_a86a_22f2bb88782f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_128100a6_8c71_4fd8_a86a_22f2bb88782f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_128100a6_8c71_4fd8_a86a_22f2bb88782f> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_128100a6_8c71_4fd8_a86a_22f2bb88782f> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/repo" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_128100a6_8c71_4fd8_a86a_22f2bb88782f> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://ont.enapso.com/repo#name> "Ashesh Goplani's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://www.w3.org/2000/01/rdf-schema#comment> "Ashesh Goplani's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_ca8d3c76_0766_47dd_9b87_2e93bf976082> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://ont.enapso.com/repo#osVersion> "10" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_3bc75791_9b65_4b0a_887d_aaabc253c78e> <http://ont.enapso.com/repo#dbVersion> "9.1" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_fafc443d_cd64_48f1_a09e_98e8725a4042> <http://ont.enapso.com/repo#name> "Enapso Ontology API Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_fafc443d_cd64_48f1_a09e_98e8725a4042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_fafc443d_cd64_48f1_a09e_98e8725a4042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_fafc443d_cd64_48f1_a09e_98e8725a4042> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Ontology API Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_fafc443d_cd64_48f1_a09e_98e8725a4042> <http://ont.enapso.com/repo#url> "EnapsoOntologyApi.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_26a400d2_76d8_4522_ab78_eee13d5aa2ad> <http://ont.enapso.com/repo#name> "Resource Description Framework Schema" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_26a400d2_76d8_4522_ab78_eee13d5aa2ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_26a400d2_76d8_4522_ab78_eee13d5aa2ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_26a400d2_76d8_4522_ab78_eee13d5aa2ad> <http://www.w3.org/2000/01/rdf-schema#comment> "Resource Description Framework Schema"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_26a400d2_76d8_4522_ab78_eee13d5aa2ad> <http://ont.enapso.com/repo#prefix> "rdfs" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_26a400d2_76d8_4522_ab78_eee13d5aa2ad> <http://ont.enapso.com/repo#namespace> "http://www.w3.org/2000/01/rdf-schema#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_aef0d524_8308_4082_8a93_8171ee487af5> <http://ont.enapso.com/repo#name> "Ubuntu" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_aef0d524_8308_4082_8a93_8171ee487af5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_aef0d524_8308_4082_8a93_8171ee487af5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#OperatingSystem> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#OperatingSystem_aef0d524_8308_4082_8a93_8171ee487af5> <http://www.w3.org/2000/01/rdf-schema#comment> "Linux (Ubuntu)"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_e7e124a2_3a7b_4333_8f51_5f70d48f0bfe> <http://ont.enapso.com/repo#name> "CMS" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_e7e124a2_3a7b_4333_8f51_5f70d48f0bfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_e7e124a2_3a7b_4333_8f51_5f70d48f0bfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Tenant> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Tenant_e7e124a2_3a7b_4333_8f51_5f70d48f0bfe> <http://www.w3.org/2000/01/rdf-schema#comment> "CMS"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_7886ca3f_93cf_45c4_bac6_41dc832af2b2> <http://ont.enapso.com/repo#name> "Enapso Sencha ExtJS Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_7886ca3f_93cf_45c4_bac6_41dc832af2b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_7886ca3f_93cf_45c4_bac6_41dc832af2b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_7886ca3f_93cf_45c4_bac6_41dc832af2b2> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Sencha ExtJS Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_7886ca3f_93cf_45c4_bac6_41dc832af2b2> <http://ont.enapso.com/repo#url> "EnapsoExtJS.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_780bf0c4_39cf_470e_b97f_65238963626e> <http://ont.enapso.com/repo#name> "Extensible Markup Language" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_780bf0c4_39cf_470e_b97f_65238963626e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_780bf0c4_39cf_470e_b97f_65238963626e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_780bf0c4_39cf_470e_b97f_65238963626e> <http://www.w3.org/2000/01/rdf-schema#comment> "Extensible Markup Language"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_780bf0c4_39cf_470e_b97f_65238963626e> <http://ont.enapso.com/repo#prefix> "xml" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_780bf0c4_39cf_470e_b97f_65238963626e> <http://ont.enapso.com/repo#namespace> "http://www.w3.org/XML/1998/namespace/" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_e611adf1_7ef3_493b_97a7_812d847f4ba2> <http://ont.enapso.com/repo#name> "Dedicated Server" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_e611adf1_7ef3_493b_97a7_812d847f4ba2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_e611adf1_7ef3_493b_97a7_812d847f4ba2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Platform> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Platform_e611adf1_7ef3_493b_97a7_812d847f4ba2> <http://www.w3.org/2000/01/rdf-schema#comment> "Dedicated Server"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_5e3504ce_9441_4f25_a5ee_c8c65fbb9132> <http://ont.enapso.com/repo#name> "The Graph in Fida's laptop in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_5e3504ce_9441_4f25_a5ee_c8c65fbb9132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_5e3504ce_9441_4f25_a5ee_c8c65fbb9132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_5e3504ce_9441_4f25_a5ee_c8c65fbb9132> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Fida's laptop in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_5e3504ce_9441_4f25_a5ee_c8c65fbb9132> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/dotnetpro" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_5e3504ce_9441_4f25_a5ee_c8c65fbb9132> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_0a2c8421_036d_46ef_8a48_e0fca429ccdc> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_2129eed4_1867_4c09_a75c_f7c9434766e6> <http://ont.enapso.com/repo#name> "The Graph in Siva's laptop in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_2129eed4_1867_4c09_a75c_f7c9434766e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_2129eed4_1867_4c09_a75c_f7c9434766e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_2129eed4_1867_4c09_a75c_f7c9434766e6> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Siva's laptop in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_2129eed4_1867_4c09_a75c_f7c9434766e6> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/dotnetpro" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_2129eed4_1867_4c09_a75c_f7c9434766e6> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_be8010df_5906_43ea_a1b3_fe926eb29fe7> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d0bbb0bd_cc12_4501_9647_05bceb5f06c9> <http://ont.enapso.com/repo#name> "Enapso Ontology Repository Management Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d0bbb0bd_cc12_4501_9647_05bceb5f06c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d0bbb0bd_cc12_4501_9647_05bceb5f06c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d0bbb0bd_cc12_4501_9647_05bceb5f06c9> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Ontology Repository Management Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d0bbb0bd_cc12_4501_9647_05bceb5f06c9> <http://ont.enapso.com/repo#prefix> "enrepo" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_d0bbb0bd_cc12_4501_9647_05bceb5f06c9> <http://ont.enapso.com/repo#url> "http://ont.enapso.com/repo#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#operatingSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#operatingSystem> <http://www.w3.org/2000/01/rdf-schema#comment> "Name of Operating System " <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#operatingSystem> <http://www.w3.org/2000/01/rdf-schema#label> "Operating System"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_14eaf5b6_1704_4f8d_b315_8a8728640b66> <http://ont.enapso.com/repo#name> "Martin Künzle's local Environment" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_14eaf5b6_1704_4f8d_b315_8a8728640b66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_14eaf5b6_1704_4f8d_b315_8a8728640b66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_14eaf5b6_1704_4f8d_b315_8a8728640b66> <http://www.w3.org/2000/01/rdf-schema#comment> "Martin Künzle's local Environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_14eaf5b6_1704_4f8d_b315_8a8728640b66> <http://ont.enapso.com/repo#hasTenant> <http://ont.enapso.com/repo#Tenant_e7e124a2_3a7b_4333_8f51_5f70d48f0bfe> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_485aac31_fa8d_4463_86fd_a6845c75ad48> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_485aac31_fa8d_4463_86fd_a6845c75ad48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_485aac31_fa8d_4463_86fd_a6845c75ad48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_485aac31_fa8d_4463_86fd_a6845c75ad48> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_485aac31_fa8d_4463_86fd_a6845c75ad48> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/terms" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_485aac31_fa8d_4463_86fd_a6845c75ad48> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_299e12b7_024a_4ffe_a099_b408fe8858a6> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_8cf7a1e0_09a4_461b_ae81_039418e69ce0> <http://ont.enapso.com/repo#name> "Generic Enapso Software Engineering Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_8cf7a1e0_09a4_461b_ae81_039418e69ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_8cf7a1e0_09a4_461b_ae81_039418e69ce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_8cf7a1e0_09a4_461b_ae81_039418e69ce0> <http://www.w3.org/2000/01/rdf-schema#comment> "Generic Enapso Software Engineering Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_8cf7a1e0_09a4_461b_ae81_039418e69ce0> <http://ont.enapso.com/repo#prefix> "engse" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_8cf7a1e0_09a4_461b_ae81_039418e69ce0> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/gse#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_1efd927f_3b18_4581_8a95_d11af361993c> <http://ont.enapso.com/repo#name> "Enapso Test Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_1efd927f_3b18_4581_8a95_d11af361993c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_1efd927f_3b18_4581_8a95_d11af361993c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_1efd927f_3b18_4581_8a95_d11af361993c> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Test Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_1efd927f_3b18_4581_8a95_d11af361993c> <http://ont.enapso.com/repo#url> "EnapsoTest.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#iri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#iri> <http://www.w3.org/2000/01/rdf-schema#label> "IRI"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#iri> <http://www.w3.org/2000/01/rdf-schema#label> "IRI"@de <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://ont.enapso.com/repo#name> "Fida's laptop" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://www.w3.org/2000/01/rdf-schema#comment> "Fida's laptop"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo#DatabaseSystem_5920b359_3180_478e_8679_ec0717a9195f> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://ont.enapso.com/repo#version> "9.0" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo#OperatingSystem_e4966c72_e7f2_484c_adb6_cbc2fd531d36> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo#Environment_fcf6327c_58fa_4b18_8fbe_bb3e959a126c> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Host_6c307a8d_be16_4550_8794_33492e758f22> <http://ont.enapso.com/repo#osVersion> "10" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_3a8e056d_76c7_437b_8718_78a84cae0a31> <http://ont.enapso.com/repo#name> "Enapso Generic Software Engineering Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_3a8e056d_76c7_437b_8718_78a84cae0a31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_3a8e056d_76c7_437b_8718_78a84cae0a31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_3a8e056d_76c7_437b_8718_78a84cae0a31> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Generic Software Engineering Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_3a8e056d_76c7_437b_8718_78a84cae0a31> <http://ont.enapso.com/repo#url> "EnapsoGenericSoftwareEngineering.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#ip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#ip> <http://www.w3.org/2000/01/rdf-schema#comment> "The IP number, e.g. of a host."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#ip> <http://www.w3.org/2000/01/rdf-schema#label> "IP No"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_fcf6327c_58fa_4b18_8fbe_bb3e959a126c> <http://ont.enapso.com/repo#name> "Fida's local Environment" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_fcf6327c_58fa_4b18_8fbe_bb3e959a126c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_fcf6327c_58fa_4b18_8fbe_bb3e959a126c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_fcf6327c_58fa_4b18_8fbe_bb3e959a126c> <http://www.w3.org/2000/01/rdf-schema#comment> "Fida's local Environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_fcf6327c_58fa_4b18_8fbe_bb3e959a126c> <http://ont.enapso.com/repo#hasTenant> <http://ont.enapso.com/repo#Tenant_f5a52c9d_1c3e_4fa8_bfb2_587958d4e8c3> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#title> <http://www.w3.org/2000/01/rdf-schema#comment> "Title of a certain entity. For instance, to be used for a repository in graph db."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#title> <http://www.w3.org/2000/01/rdf-schema#label> "Title"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_de3f9fb0_0b4c_4f7d_a77d_08d1adb6f089> <http://ont.enapso.com/repo#name> "Enapso Ontology Repository Management Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_de3f9fb0_0b4c_4f7d_a77d_08d1adb6f089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_de3f9fb0_0b4c_4f7d_a77d_08d1adb6f089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_de3f9fb0_0b4c_4f7d_a77d_08d1adb6f089> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Ontology Repository Management Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_de3f9fb0_0b4c_4f7d_a77d_08d1adb6f089> <http://ont.enapso.com/repo#url> "EnapsoOntologyRepository.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_59477cde_2c3a_4b00_83b7_2a377f810849> <http://ont.enapso.com/repo#name> "Shapes Constraint Language" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_59477cde_2c3a_4b00_83b7_2a377f810849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_59477cde_2c3a_4b00_83b7_2a377f810849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_59477cde_2c3a_4b00_83b7_2a377f810849> <http://www.w3.org/2000/01/rdf-schema#comment> "Shapes Constraint Language"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_59477cde_2c3a_4b00_83b7_2a377f810849> <http://ont.enapso.com/repo#prefix> "sh" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_59477cde_2c3a_4b00_83b7_2a377f810849> <http://ont.enapso.com/repo#namespace> "http://www.w3.org/ns/shacl#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_4bf163c4_b330_402d_994c_230bcf3714fa> <http://ont.enapso.com/repo#name> "The  Graph in Ashesh Goplani hp i7 in the EnapsoChecking repository.." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_4bf163c4_b330_402d_994c_230bcf3714fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_4bf163c4_b330_402d_994c_230bcf3714fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_4bf163c4_b330_402d_994c_230bcf3714fa> <http://www.w3.org/2000/01/rdf-schema#comment> "The  Graph in Ashesh Goplani hp i7 in the EnapsoChecking repository.."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_4bf163c4_b330_402d_994c_230bcf3714fa> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/extjs" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_4bf163c4_b330_402d_994c_230bcf3714fa> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_ca8d3c76_0766_47dd_9b87_2e93bf976082> <http://ont.enapso.com/repo#name> "Ashesh Goplani's local environment" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_ca8d3c76_0766_47dd_9b87_2e93bf976082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_ca8d3c76_0766_47dd_9b87_2e93bf976082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_ca8d3c76_0766_47dd_9b87_2e93bf976082> <http://www.w3.org/2000/01/rdf-schema#comment> "Ashesh Goplani's local environment"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Environment_ca8d3c76_0766_47dd_9b87_2e93bf976082> <http://ont.enapso.com/repo#hasTenant> <http://ont.enapso.com/repo#Tenant_0143e7ee_fbdd_45b3_879f_fedc78e42ab4> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_a6ca7dfb_7ffa_4c1e_97b9_e7b91d191c63> <http://ont.enapso.com/repo#name> "Enapso DotNetPro Demo Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_a6ca7dfb_7ffa_4c1e_97b9_e7b91d191c63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_a6ca7dfb_7ffa_4c1e_97b9_e7b91d191c63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Ontology> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_a6ca7dfb_7ffa_4c1e_97b9_e7b91d191c63> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso DotNetPro Demo Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Ontology_a6ca7dfb_7ffa_4c1e_97b9_e7b91d191c63> <http://ont.enapso.com/repo#url> "/demo/dotnetpro_demo_ontology_2.owl" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#databaseSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#databaseSystem> <http://www.w3.org/2000/01/rdf-schema#comment> "Detail of Database System " <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#databaseSystem> <http://www.w3.org/2000/01/rdf-schema#label> "Database System"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8dc370d6_4173_4676_bf39_eea210247594> <http://ont.enapso.com/repo#name> "The Graph in Ashesh Goplani hp i7 in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8dc370d6_4173_4676_bf39_eea210247594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8dc370d6_4173_4676_bf39_eea210247594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8dc370d6_4173_4676_bf39_eea210247594> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Ashesh Goplani hp i7 in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8dc370d6_4173_4676_bf39_eea210247594> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/foundation" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_8dc370d6_4173_4676_bf39_eea210247594> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_a4c96d2c_b982_4231_930b_4bc961d8352a> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_086a69ed_f3e1_4555_bdb5_2535ac9baea7> <http://ont.enapso.com/repo#name> "GraphDB on Alexander Schulze's Macbook Pro I" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_086a69ed_f3e1_4555_bdb5_2535ac9baea7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_086a69ed_f3e1_4555_bdb5_2535ac9baea7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_086a69ed_f3e1_4555_bdb5_2535ac9baea7> <http://www.w3.org/2000/01/rdf-schema#comment> "GraphDB on Alexander Schulze's Macbook Pro I"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_086a69ed_f3e1_4555_bdb5_2535ac9baea7> <http://ont.enapso.com/repo#version> "7" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#DatabaseInstance_086a69ed_f3e1_4555_bdb5_2535ac9baea7> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo#Host_1fbdddee_d864_4868_9f65_c6b1be32de92> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b4fb1107_ed80_4b12_b365_2eaaf219dca0> <http://ont.enapso.com/repo#name> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoTest repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b4fb1107_ed80_4b12_b365_2eaaf219dca0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b4fb1107_ed80_4b12_b365_2eaaf219dca0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b4fb1107_ed80_4b12_b365_2eaaf219dca0> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Alexander Schulze's MacBookPro II in the EnapsoTest repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b4fb1107_ed80_4b12_b365_2eaaf219dca0> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/terms" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_b4fb1107_ed80_4b12_b365_2eaaf219dca0> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_63423a53_29c2_43ae_b35a_7be883b4bd40> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_727832e2_a8da_4402_a99c_7a9259ad6046> <http://ont.enapso.com/repo#name> "The Graph in Martin Künzle's laptop in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_727832e2_a8da_4402_a99c_7a9259ad6046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_727832e2_a8da_4402_a99c_7a9259ad6046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_727832e2_a8da_4402_a99c_7a9259ad6046> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Martin Künzle's laptop in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_727832e2_a8da_4402_a99c_7a9259ad6046> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/dotnetpro" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_727832e2_a8da_4402_a99c_7a9259ad6046> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_b49357e0_33bc_4163_8fef_2cad56ac72a5> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_91941413_4174_4cb0_a0a5_7f7a5c964286> <http://ont.enapso.com/repo#name> "Enapso Ontology API Ontology" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_91941413_4174_4cb0_a0a5_7f7a5c964286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Prefix> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_91941413_4174_4cb0_a0a5_7f7a5c964286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_91941413_4174_4cb0_a0a5_7f7a5c964286> <http://www.w3.org/2000/01/rdf-schema#comment> "Enapso Ontology API Ontology"@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_91941413_4174_4cb0_a0a5_7f7a5c964286> <http://ont.enapso.com/repo#prefix> "enontapi" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Prefix_91941413_4174_4cb0_a0a5_7f7a5c964286> <http://ont.enapso.com/repo#namespace> "http://ont.enapso.com/ontapi#" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_53a1f29f_48c6_4b9a_83c2_85a9d216ecd4> <http://ont.enapso.com/repo#name> "The Graph in Muhammad Yasir Dell i5 in the EnapsoChecking repository." <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_53a1f29f_48c6_4b9a_83c2_85a9d216ecd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_53a1f29f_48c6_4b9a_83c2_85a9d216ecd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ont.enapso.com/repo#Graph> <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_53a1f29f_48c6_4b9a_83c2_85a9d216ecd4> <http://www.w3.org/2000/01/rdf-schema#comment> "The Graph in Muhammad Yasir Dell i5 in the EnapsoChecking repository."@en <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_53a1f29f_48c6_4b9a_83c2_85a9d216ecd4> <http://ont.enapso.com/repo#graph> "http://ont.enapso.com/extjs" <http://ont.enapso.com/repo> .
+<http://ont.enapso.com/repo#Graph_53a1f29f_48c6_4b9a_83c2_85a9d216ecd4> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo#Repository_03b94545_b227_427d_bd7a_3676e61adb9c> <http://ont.enapso.com/repo> .
+_:B6af605baX2Dd335X2D4df5X2Da247X2D7df2f103838f <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B6af605baX2Dd335X2D4df5X2Da247X2D7df2f103838f <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B6af605baX2Dd335X2D4df5X2Da247X2D7df2f103838f <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B6af605baX2Dd335X2D4df5X2Da247X2D7df2f103838f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bbd701a27X2D3b2aX2D465dX2Db9b0X2Dace517a2bf88 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:Bbd701a27X2D3b2aX2D465dX2Db9b0X2Dace517a2bf88 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Bbd701a27X2D3b2aX2D465dX2Db9b0X2Dace517a2bf88 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#osVersion> <http://ont.enapso.com/repo> .
+_:Bbd701a27X2D3b2aX2D465dX2Db9b0X2Dace517a2bf88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bf957b221X2Dfd1bX2D40b3X2D912bX2D9b6447729f29 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:Bf957b221X2Dfd1bX2D40b3X2D912bX2D9b6447729f29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bf957b221X2Dfd1bX2D40b3X2D912bX2D9b6447729f29 <http://www.w3.org/2002/07/owl#hasValue> "Windows" <http://ont.enapso.com/repo> .
+_:Ba58f900fX2Db096X2D496aX2DacedX2D544f5c58d6a4 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:Ba58f900fX2Db096X2D496aX2DacedX2D544f5c58d6a4 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Ba58f900fX2Db096X2D496aX2DacedX2D544f5c58d6a4 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:Ba58f900fX2Db096X2D496aX2DacedX2D544f5c58d6a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bb1303450X2De48dX2D4d57X2Db79aX2D9b6f4599a7a8 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Bb1303450X2De48dX2D4d57X2Db79aX2D9b6f4599a7a8 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#hasEnvironment> <http://ont.enapso.com/repo> .
+_:Bb1303450X2De48dX2D4d57X2Db79aX2D9b6f4599a7a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bb1303450X2De48dX2D4d57X2Db79aX2D9b6f4599a7a8 <http://www.w3.org/2002/07/owl#onClass> <http://ont.enapso.com/repo#Environment> <http://ont.enapso.com/repo> .
+_:Be765800aX2De043X2D422aX2Db36dX2Db054881933ee <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#hasDatabaseInstance> <http://ont.enapso.com/repo> .
+_:Be765800aX2De043X2D422aX2Db36dX2Db054881933ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Be765800aX2De043X2D422aX2Db36dX2Db054881933ee <http://www.w3.org/2002/07/owl#onClass> <http://ont.enapso.com/repo#DatabaseInstance> <http://ont.enapso.com/repo> .
+_:Be765800aX2De043X2D422aX2Db36dX2Db054881933ee <http://www.w3.org/2002/07/owl#minQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B882d96c9X2Db26cX2D484cX2DabcbX2D1aa79fe581dc <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B882d96c9X2Db26cX2D484cX2DabcbX2D1aa79fe581dc <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B882d96c9X2Db26cX2D484cX2DabcbX2D1aa79fe581dc <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#url> <http://ont.enapso.com/repo> .
+_:B882d96c9X2Db26cX2D484cX2DabcbX2D1aa79fe581dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B1eef7231X2D3392X2D4a85X2D9c84X2Dab97b7e95942 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B1eef7231X2D3392X2D4a85X2D9c84X2Dab97b7e95942 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B1eef7231X2D3392X2D4a85X2D9c84X2Dab97b7e95942 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B1eef7231X2D3392X2D4a85X2D9c84X2Dab97b7e95942 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B31c21d06X2D0c43X2D4c7fX2D9253X2D61b3933967bf <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B31c21d06X2D0c43X2D4c7fX2D9253X2D61b3933967bf <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B31c21d06X2D0c43X2D4c7fX2D9253X2D61b3933967bf <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B31c21d06X2D0c43X2D4c7fX2D9253X2D61b3933967bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B988fde2cX2D72a4X2D4304X2Db09cX2De5190b5186e7 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B988fde2cX2D72a4X2D4304X2Db09cX2De5190b5186e7 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#hasTenant> <http://ont.enapso.com/repo> .
+_:B988fde2cX2D72a4X2D4304X2Db09cX2De5190b5186e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B988fde2cX2D72a4X2D4304X2Db09cX2De5190b5186e7 <http://www.w3.org/2002/07/owl#onClass> <http://ont.enapso.com/repo#Tenant> <http://ont.enapso.com/repo> .
+_:B5fa5d275X2Df1b5X2D451fX2Da43aX2Dc4218b293add <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B5fa5d275X2Df1b5X2D451fX2Da43aX2Dc4218b293add <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B5fa5d275X2Df1b5X2D451fX2Da43aX2Dc4218b293add <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B5fa5d275X2Df1b5X2D451fX2Da43aX2Dc4218b293add <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B732c6367X2D9906X2D4d04X2D9c93X2Ddc97d168e1f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+_:B732c6367X2D9906X2D4d04X2D9c93X2Ddc97d168e1f1 <http://www.w3.org/2002/07/owl#unionOf> _:B561bd40dX2Dd1a4X2D4458X2Db9abX2Def54d945f873 <http://ont.enapso.com/repo> .
+_:B561bd40dX2Dd1a4X2D4458X2Db9abX2Def54d945f873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:Bfa894e44X2Df86cX2D43b4X2D88d8X2D19ebffb5620e <http://ont.enapso.com/repo> .
+_:B561bd40dX2Dd1a4X2D4458X2Db9abX2Def54d945f873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:B4460984fX2Db530X2D4083X2Dad8bX2D7a176c760ce1 <http://ont.enapso.com/repo> .
+_:Bfac9ca9dX2D6679X2D424eX2Db406X2Ddd5d4a1dc875 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:Bfac9ca9dX2D6679X2D424eX2Db406X2Ddd5d4a1dc875 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Bfac9ca9dX2D6679X2D424eX2Db406X2Ddd5d4a1dc875 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#namespace> <http://ont.enapso.com/repo> .
+_:Bfac9ca9dX2D6679X2D424eX2Db406X2Ddd5d4a1dc875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B228a9f07X2Dc3e4X2D439aX2Dbce0X2D7148343e37d5 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B228a9f07X2Dc3e4X2D439aX2Dbce0X2D7148343e37d5 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B228a9f07X2Dc3e4X2D439aX2Dbce0X2D7148343e37d5 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#version> <http://ont.enapso.com/repo> .
+_:B228a9f07X2Dc3e4X2D439aX2Dbce0X2D7148343e37d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B5671e96dX2Dba18X2D4c6cX2Da9c8X2Db445c47197a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:Bcc6cbeb4X2Dc1bdX2D48ddX2Db39bX2D48ae58ac598d <http://ont.enapso.com/repo> .
+_:B5671e96dX2Dba18X2D4c6cX2Da9c8X2Db445c47197a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:Bb2d396a0X2D8e09X2D47dfX2Db8bfX2D32fbf62afda9 <http://ont.enapso.com/repo> .
+_:Bcc6cbeb4X2Dc1bdX2D48ddX2Db39bX2D48ae58ac598d <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:B48d3ad4eX2D17c9X2D472fX2DaadbX2D0d83bcaf0995 <http://ont.enapso.com/repo> .
+_:Bcc6cbeb4X2Dc1bdX2D48ddX2Db39bX2D48ae58ac598d <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:Bcb89b35dX2DcafeX2D446fX2Db442X2Dbf6aa8c9374c <http://ont.enapso.com/repo> .
+_:Bb2d396a0X2D8e09X2D47dfX2Db8bfX2D32fbf62afda9 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:Bb2d396a0X2D8e09X2D47dfX2Db8bfX2D32fbf62afda9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bb2d396a0X2D8e09X2D47dfX2Db8bfX2D32fbf62afda9 <http://www.w3.org/2002/07/owl#hasValue> "Linux" <http://ont.enapso.com/repo> .
+_:B626bab8aX2D9b76X2D4c3fX2Dbf0aX2D37be10ffc8b8 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B626bab8aX2D9b76X2D4c3fX2Dbf0aX2D37be10ffc8b8 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B626bab8aX2D9b76X2D4c3fX2Dbf0aX2D37be10ffc8b8 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B626bab8aX2D9b76X2D4c3fX2Dbf0aX2D37be10ffc8b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B4fe32ee6X2Dca75X2D4cc9X2Dab47X2D56733a0cae79 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B4fe32ee6X2Dca75X2D4cc9X2Dab47X2D56733a0cae79 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B4fe32ee6X2Dca75X2D4cc9X2Dab47X2D56733a0cae79 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#graph> <http://ont.enapso.com/repo> .
+_:B4fe32ee6X2Dca75X2D4cc9X2Dab47X2D56733a0cae79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bd8c52d8dX2D3fb8X2D4e4fX2D8375X2D167db30f39ee <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#hasRepository> <http://ont.enapso.com/repo> .
+_:Bd8c52d8dX2D3fb8X2D4e4fX2D8375X2D167db30f39ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bd8c52d8dX2D3fb8X2D4e4fX2D8375X2D167db30f39ee <http://www.w3.org/2002/07/owl#someValuesFrom> <http://ont.enapso.com/repo#Repository> <http://ont.enapso.com/repo> .
+_:Bcb89b35dX2DcafeX2D446fX2Db442X2Dbf6aa8c9374c <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:Bcb89b35dX2DcafeX2D446fX2Db442X2Dbf6aa8c9374c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bcb89b35dX2DcafeX2D446fX2Db442X2Dbf6aa8c9374c <http://www.w3.org/2002/07/owl#hasValue> "MacOS" <http://ont.enapso.com/repo> .
+_:Bb38d3165X2D61d2X2D4799X2D82a9X2Df23e4c344bd5 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:Bb38d3165X2D61d2X2D4799X2D82a9X2Df23e4c344bd5 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Bb38d3165X2D61d2X2D4799X2D82a9X2Df23e4c344bd5 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:Bb38d3165X2D61d2X2D4799X2D82a9X2Df23e4c344bd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bb20790a7X2D872bX2D4dc4X2Db665X2Df0929e411a2a <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:Bb20790a7X2D872bX2D4dc4X2Db665X2Df0929e411a2a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bb20790a7X2D872bX2D4dc4X2Db665X2Df0929e411a2a <http://www.w3.org/2002/07/owl#hasValue> "Stardog" <http://ont.enapso.com/repo> .
+_:Ba6ab9cb5X2Daad9X2D4bf6X2D8666X2D0e2351a1ffe6 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:Ba6ab9cb5X2Daad9X2D4bf6X2D8666X2D0e2351a1ffe6 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Ba6ab9cb5X2Daad9X2D4bf6X2D8666X2D0e2351a1ffe6 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#version> <http://ont.enapso.com/repo> .
+_:Ba6ab9cb5X2Daad9X2D4bf6X2D8666X2D0e2351a1ffe6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bd0d726ceX2De5b5X2D45f8X2Da4c3X2D639c9c7a9827 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> <http://ont.enapso.com/repo> .
+_:Bd0d726ceX2De5b5X2D45f8X2Da4c3X2D639c9c7a9827 <http://www.w3.org/2002/07/owl#unionOf> _:B5671e96dX2Dba18X2D4c6cX2Da9c8X2Db445c47197a8 <http://ont.enapso.com/repo> .
+_:B4f56e629X2Db936X2D4b92X2Da033X2D67f80d60a81a <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B4f56e629X2Db936X2D4b92X2Da033X2D67f80d60a81a <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B4f56e629X2Db936X2D4b92X2Da033X2D67f80d60a81a <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#dbVersion> <http://ont.enapso.com/repo> .
+_:B4f56e629X2Db936X2D4b92X2Da033X2D67f80d60a81a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bf9e76f48X2Dc791X2D4c3cX2Da16dX2Db6005b9e95bf <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:Bf9e76f48X2Dc791X2D4c3cX2Da16dX2Db6005b9e95bf <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Bf9e76f48X2Dc791X2D4c3cX2Da16dX2Db6005b9e95bf <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#prefix> <http://ont.enapso.com/repo> .
+_:Bf9e76f48X2Dc791X2D4c3cX2Da16dX2Db6005b9e95bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B2ec68c85X2D99deX2D4374X2Da9bdX2Dedb37d3bfb03 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B2ec68c85X2D99deX2D4374X2Da9bdX2Dedb37d3bfb03 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B2ec68c85X2D99deX2D4374X2Da9bdX2Dedb37d3bfb03 <http://www.w3.org/2002/07/owl#hasValue> "GraphDB" <http://ont.enapso.com/repo> .
+_:B1d3c4b29X2D2136X2D4286X2D8fe7X2De9bf2a02ac7b <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B1d3c4b29X2D2136X2D4286X2D8fe7X2De9bf2a02ac7b <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B1d3c4b29X2D2136X2D4286X2D8fe7X2De9bf2a02ac7b <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B1d3c4b29X2D2136X2D4286X2D8fe7X2De9bf2a02ac7b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B1036a95dX2D92c3X2D4dceX2D8795X2Df59f97be2200 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B1036a95dX2D92c3X2D4dceX2D8795X2Df59f97be2200 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B1036a95dX2D92c3X2D4dceX2D8795X2Df59f97be2200 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#id> <http://ont.enapso.com/repo> .
+_:B1036a95dX2D92c3X2D4dceX2D8795X2Df59f97be2200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B838bc695X2Deef6X2D4358X2D914fX2D5ec12eeaaf74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <http://ont.enapso.com/repo> .
+_:B838bc695X2Deef6X2D4358X2D914fX2D5ec12eeaaf74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:Bb20790a7X2D872bX2D4dc4X2Db665X2Df0929e411a2a <http://ont.enapso.com/repo> .
+_:B867b52f5X2D26f6X2D4f3dX2Dac37X2D5a6d2e6c6557 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B867b52f5X2D26f6X2D4f3dX2Dac37X2D5a6d2e6c6557 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#hasDatabaseSystem> <http://ont.enapso.com/repo> .
+_:B867b52f5X2D26f6X2D4f3dX2Dac37X2D5a6d2e6c6557 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B867b52f5X2D26f6X2D4f3dX2Dac37X2D5a6d2e6c6557 <http://www.w3.org/2002/07/owl#onClass> <http://ont.enapso.com/repo#DatabaseSystem> <http://ont.enapso.com/repo> .
+_:B40d342f3X2D12f0X2D4695X2Dadb9X2D595ceee4e3b0 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B40d342f3X2D12f0X2D4695X2Dadb9X2D595ceee4e3b0 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B40d342f3X2D12f0X2D4695X2Dadb9X2D595ceee4e3b0 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#version> <http://ont.enapso.com/repo> .
+_:B40d342f3X2D12f0X2D4695X2Dadb9X2D595ceee4e3b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bd880db64X2D9c4dX2D4ed4X2Da2aaX2Dd39d8f1ecfd7 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#hasHost> <http://ont.enapso.com/repo> .
+_:Bd880db64X2D9c4dX2D4ed4X2Da2aaX2Dd39d8f1ecfd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bd880db64X2D9c4dX2D4ed4X2Da2aaX2Dd39d8f1ecfd7 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://ont.enapso.com/repo#Host> <http://ont.enapso.com/repo> .
+_:B48d3ad4eX2D17c9X2D472fX2DaadbX2D0d83bcaf0995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <http://ont.enapso.com/repo> .
+_:B48d3ad4eX2D17c9X2D472fX2DaadbX2D0d83bcaf0995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:Bf957b221X2Dfd1bX2D40b3X2D912bX2D9b6447729f29 <http://ont.enapso.com/repo> .
+_:Bd745d65aX2D53ddX2D4a52X2D8965X2Dc4d81f1908df <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:Bd745d65aX2D53ddX2D4a52X2D8965X2Dc4d81f1908df <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#hasOperatingSystem> <http://ont.enapso.com/repo> .
+_:Bd745d65aX2D53ddX2D4a52X2D8965X2Dc4d81f1908df <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:Bd745d65aX2D53ddX2D4a52X2D8965X2Dc4d81f1908df <http://www.w3.org/2002/07/owl#onClass> <http://ont.enapso.com/repo#OperatingSystem> <http://ont.enapso.com/repo> .
+_:B4460984fX2Db530X2D4083X2Dad8bX2D7a176c760ce1 <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B4460984fX2Db530X2D4083X2Dad8bX2D7a176c760ce1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
+_:B4460984fX2Db530X2D4083X2Dad8bX2D7a176c760ce1 <http://www.w3.org/2002/07/owl#hasValue> "Apache Jena/Fuseki" <http://ont.enapso.com/repo> .
+_:Bfa894e44X2Df86cX2D43b4X2D88d8X2D19ebffb5620e <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:B838bc695X2Deef6X2D4358X2D914fX2D5ec12eeaaf74 <http://ont.enapso.com/repo> .
+_:Bfa894e44X2Df86cX2D43b4X2D88d8X2D19ebffb5620e <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:B2ec68c85X2D99deX2D4374X2Da9bdX2Dedb37d3bfb03 <http://ont.enapso.com/repo> .
+_:B9c42fdacX2D3b6aX2D4f69X2Dbf2cX2Dea00732c32ac <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> <http://ont.enapso.com/repo> .
+_:B9c42fdacX2D3b6aX2D4f69X2Dbf2cX2Dea00732c32ac <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://ont.enapso.com/repo> .
+_:B9c42fdacX2D3b6aX2D4f69X2Dbf2cX2Dea00732c32ac <http://www.w3.org/2002/07/owl#onProperty> <http://ont.enapso.com/repo#name> <http://ont.enapso.com/repo> .
+_:B9c42fdacX2D3b6aX2D4f69X2Dbf2cX2Dea00732c32ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> <http://ont.enapso.com/repo> .
